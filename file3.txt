@@ -1,1 +1,2 @@
-After rebranchFile 3 text
+File 3 text
+After rebranchAfter rebranchFile 3 text
