@@ -1,3 +1,4 @@
-File 3 text-edit
+File 3 text-edited
 After rebranchAfter rebranchFile 3 text
 line 3
+line 4
